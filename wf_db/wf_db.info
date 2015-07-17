@@ -1,0 +1,5 @@
+name = WF Database
+description = Database helper for WF Tools.
+core = 7.x
+
+dependencies[] = wf
